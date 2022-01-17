@@ -7,5 +7,10 @@ My Skills:
 - Python
 - C++
 - PHP
-- Nodejs
+- NodeJS
+- Typescript
+- Docker
+- Swift
+- Java
 - Ruby
+- EJS
