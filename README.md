@@ -6,11 +6,7 @@ My Skills:
 - JavaScript
 - Python
 - C++
-- PHP
 - NodeJS
-- Typescript
-- Docker
-- Swift
-- Java
+- Go
 - Ruby
-- EJS
+
